@@ -89,7 +89,7 @@ These projects reflect my technical development throughout my degree and my abil
 ## 📫 Let's Connect
 
 <p>
-  <a href="www.linkedin.com/in/catarina-garcia-28302a2a9">
+  <a href="https://www.linkedin.com/in/catarinagarciag">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:catarinagarciaaa@gmail.com">
